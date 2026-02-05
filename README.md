@@ -15,3 +15,5 @@ This project analyzes how market sentiment (Fear/Greed) influences trader perfor
 1. Clone the repo: `git clone https://github.com/pranjal9091/trader-sentiment-analysis.git`
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn`
 3. Run the notebook `Trader_Sentiment_Analysis.ipynb`
+
+Current datasets are managed via Git for ease of reproduction. For larger production-scale data, I am proficient in using DVC and MLOps pipelines to maintain data versioning.
